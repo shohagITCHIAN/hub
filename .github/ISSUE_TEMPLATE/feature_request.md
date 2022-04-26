@@ -2,7 +2,7 @@
 name: Feature request
 about: Suggest new functionality for "hub" command-line tool
 title: ''
-labels: feature
+labels: ''
 assignees: ''
 
 ---
